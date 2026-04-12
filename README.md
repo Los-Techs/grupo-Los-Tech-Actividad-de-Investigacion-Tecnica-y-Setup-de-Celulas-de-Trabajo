@@ -5,9 +5,9 @@
 
 ##  Integrantes y roles
 
-- **Saldias David** – Scrum Master (Git Master)  
+- **Matias Marecos** – Scrum Master (Git Master)  
 - **Nahuel Lopez** – Product Owner (Documentalista)  
-- **Matias Marecos** – Developer (Investigador/a)  
+- **Saldias David** – Developer (Investigador/a)  
 
 ##  Enlace al trabajo
 
