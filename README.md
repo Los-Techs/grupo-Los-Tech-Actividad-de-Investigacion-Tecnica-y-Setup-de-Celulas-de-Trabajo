@@ -5,9 +5,9 @@
 
 ##  Integrantes y roles
 
-- **Matias Marecos** – Scrum Master (Git Master)  
-- **Nahuel Lopez** – Product Owner (Documentalista)  
-- **David Saldias** – Developer (Investigador/a)  
+- **Matias Marecos** – Scrum Master (Git Master) @ matiasmarecos1947
+- **Nahuel Lopez** – Product Owner (Documentalista)  @nahuee1947
+- **David Saldias** – Developer (Investigador/a)  @daviddsald
 
 ##  Enlace al trabajo
 
