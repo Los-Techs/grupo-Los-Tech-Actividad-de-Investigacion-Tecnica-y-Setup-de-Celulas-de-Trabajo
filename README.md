@@ -1,7 +1,7 @@
 #  Investigación Técnica y Setup de Células de Trabajo
 
 ##  Nombre del equipo
-**Equipo Innovadores Tech**
+**Equipo Los Tech**
 
 ##  Integrantes y roles
 
