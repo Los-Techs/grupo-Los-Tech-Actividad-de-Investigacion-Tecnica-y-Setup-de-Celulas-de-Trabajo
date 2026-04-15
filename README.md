@@ -7,7 +7,7 @@
 
 - **Matias Marecos** – Scrum Master (Git Master)  
 - **Nahuel Lopez** – Product Owner (Documentalista)  
-- **Saldias David** – Developer (Investigador/a)  
+- **David Saldias** – Developer (Investigador/a)  
 
 ##  Enlace al trabajo
 
