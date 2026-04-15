@@ -1,13 +1,17 @@
-#  README -  Investigación Técnica y Setup de Células de Trabajo
+#  Investigación Técnica y Setup de Células de Trabajo
 
 ##  Nombre del equipo
 **Equipo Innovadores Tech**
 
 ##  Integrantes y roles
 
-- **Matias Marecos** – Scrum Master (Git Master) @matiasmarecos1947
-- **Nahuel Lopez** – Product Owner (Documentalista)  @nahuee1947
-- **David Saldias** – Developer (Investigador/a)  @daviddsald
+## 👥 Integrantes y Roles
+
+| Integrante | Rol Principal | Especialidad | Usuario |
+| :--- | :--- | :--- | :--- |
+| **Matias Marecos** | Scrum Master | Git Master | [@matiasmarecos1947](https://github.com/matiasmarecos1947) |
+| **Nahuel Lopez** | Product Owner | Documentalista | [@nahuee1947](https://github.com/nahuee1947) |
+| **David Saldias** | Developer | Investigador/a | [@daviddsald](https://github.com/daviddsald) |
 
 ##  Enlace al trabajo
 
